@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yggdrass/CSS-Frameworks-CA/issues"
   },
-  "homepage": "https://github.com/Yggdrass/CSS-Frameworks-CA#readme"
+  "homepage": "https://github.com/Yggdrass/CSS-Frameworks-CA#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
 }
