@@ -1,0 +1,27 @@
+{
+  "name": "css-frameworks-ca",
+  "version": "1.0.0",
+  "description": "Course assignment for CSS Frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/scss:dist/css",
+    "watch": "sass --watch src/scss:dist/css & live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yggdrass/CSS-Frameworks-CA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yggdrass/CSS-Frameworks-CA/issues"
+  },
+  "homepage": "https://github.com/Yggdrass/CSS-Frameworks-CA#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "build": "^0.1.4",
+    "watch": "^1.0.2"
+  }
+}
